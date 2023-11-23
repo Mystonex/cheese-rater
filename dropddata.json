@@ -1,0 +1,11 @@
+{
+    "Milchart": ["Rohmilch", "Kuhmilch", "Ziegenmilch", "Schafsmilch", "Mischmilch (Kombinationen aus den obigen)"],
+    "Konsistenz": ["Schnittfest (feste, aber nicht harte Textur)", "Halbhart (geschmeidig, leicht schneidbar)", "Hart (fest, oft bröckelig)", "Extra Hart (sehr fest und trocken)"],
+    "Charakteristik": ["Rezent", "Würzig", "Mild"],
+    "Geschmacksprofil": ["Mild", "Butterartig", "Nussig", "Fruchtig", "Würzig", "Kräftig", "Scharf", "Rauchig", "Salzig", "Säuerlich"],
+    "Lochung": ["Keine Lochung", "Kleine Löcher (wie bei Emmentaler)", "Mittelgroße Löcher", "Große Löcher", "Unregelmäßige Lochung", "Risse oder Spalten"],
+    "Rinde": ["Essbar", "Nicht Essbar"],
+    "ADR": ["1", "2", "3", "4", "5", "6", "7", "8", "9", "10"],
+    "MICM": ["1", "2", "3", "4", "5", "6", "7", "8", "9", "10"],
+    "STLA": ["1", "2", "3", "4", "5", "6", "7", "8", "9", "10"]
+}
